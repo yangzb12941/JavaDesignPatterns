@@ -1,7 +1,5 @@
 package AdapterPattern;
 
-import AdapterPattern.USB;
-
 public class USBImpl implements USB {
     @Override
     public void showPPT() {

@@ -1,7 +1,5 @@
 package AdapterPattern;
 
-import AdapterPattern.VGA;
-
 public class VGAImpl implements VGA {
     @Override
     public void projection() {

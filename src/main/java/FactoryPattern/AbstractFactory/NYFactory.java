@@ -1,8 +1,6 @@
 package FactoryPattern.AbstractFactory;
 
-import FactoryPattern.CheesePizza;
 import FactoryPattern.GreekPizza;
-import FactoryPattern.PepperPizza;
 import FactoryPattern.Pizza;
 
 public class NYFactory implements AbsFactory {
